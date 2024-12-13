@@ -35,6 +35,9 @@ Configuration files can be found in the `plugins/BetterArenaResetter` folder. Yo
 ## Credits
 - **Original Plugin**: [PlatinumArenas by StrangeOne101](https://github.com/StrangeOne101/PlatinumArenas)
 - **Updated for Latest Versions**: Maintained and updated by **AkaTriggered**
+## Tutorial Video
+
+[Watch the tutorial video](https://drive.google.com/file/d/1msXAi2pbwBXWKQvYbo6nEnlkozuef8AO/view?usp=sharing)
 
 ## License
 This plugin is open-source and available for modification and redistribution under the terms of the [MIT License](LICENSE).
