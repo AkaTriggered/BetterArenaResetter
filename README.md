@@ -1,6 +1,8 @@
 # BetterArenaResetter (Fork of PlatinumArenas)
 
-**BetterArenaResetter** is a powerful Minecraft plugin for managing arenas, based on the open-source **PlatinumArenas** by [StrangeOne101](https://github.com/StrangeOne101/PlatinumArenas). This updated version ensures compatibility with the latest Minecraft versions, adding bug fixes and performance improvements. It is maintained by **AkaTriggered**.
+**BetterArenaResetter** is a powerful Minecraft plugin for managing arenas, based on the open-source **PlatinumArenas** by [StrangeOne101](https://github.com/StrangeOne101/PlatinumArenas). This updated version ensures compatibility with the latest Minecraft versions (1.21.X), adding bug fixes and performance improvements. It is maintained by **AkaTriggered**.
+
+Latest Release: [BetterArenaResetter on Modrinth](https://modrinth.com/plugin/betterarenaresetter)
 
 ## Key Features
 - **Arena Management**: Easily create, manage, and reset arenas with simple commands.
@@ -8,10 +10,11 @@
 - **Multi-Arena Support**: Supports multiple arenas for different game modes or events.
 - **Customization**: Fully configurable settings for fine-tuning arena behavior.
 - **Instant Arena Reset**: Reset arenas instantly with the `/reset` command.
+- **Minecraft 1.21.X Support**: Fully compatible with the latest Minecraft version (1.21.X).
 
 ## Installation
 
-1. Download the **BetterArenaResetter** plugin `.jar` file.
+1. Download the **BetterArenaResetter** plugin `.jar` file from [Modrinth](https://modrinth.com/plugin/betterarenaresetter).
 2. Place the `.jar` file into your server's `plugins` folder.
 3. Restart or reload the server.
 4. Customize the configuration files to suit your server's needs.
