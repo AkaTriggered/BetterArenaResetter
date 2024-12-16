@@ -1,0 +1,30 @@
+name: BetterArenaResetter
+main: org.akatriggered.betterarenaresetter.BetterArenaResetter
+version: ${project.version}-r${buildNumber}
+author: AkaTriggered
+prefix: BetterArenaResetter
+softdepend: [WorldEdit]
+api-version: 1.21
+commands:
+   betterarenaresetter:
+      description: Manage the arenas
+      default: op
+      aliases: [bar, arena, arenas]
+      permission: betterarenaresetter.command
+permissions:
+   betterarenaresetter:
+      default: op
+      children:
+         betterarenaresetter.reload: true
+         betterarenaresetter.create: true
+         betterarenaresetter.list: true
+         betterarenaresetter.reset: true
+         betterarenaresetter.cancel: true
+         betterarenaresetter.border: true
+         betterarenaresetter.remove: true
+         betterarenaresetter.debug: true
+         betterarenaresetter.info: true
+      description: Use the BetterArenaResetter command
+   betterarenaresetter.reset.instant:
+      description: Reset arenas instantly
+      default: false
